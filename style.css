@@ -1,0 +1,70 @@
+body{
+  background: #f8f8fa;
+}
+
+h1{
+  font-family: Georgia, serif;
+  text-align: center;
+}
+
+h2{
+  font-style: italic;
+}
+
+h3{
+  color: #536872;
+}
+
+h4{
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: 'Indie Flower', cursive;
+}
+
+p{
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+ul{
+  color: #8673ff;
+}
+
+ol{
+  font-style: italic;
+}
+
+img{
+  border: 4px solid #8febff;
+  display: block;
+  margin: auto;
+}
+
+a{
+  color: #36454f
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: 'Indie Flower', cursive;
+}
+
+a:link {
+ color: #d3ffce;
+ text-decoration: none;
+}
+
+a:visited {
+  color: #f08080;
+}
+
+a:hover{
+ background: white;
+}
+
+.list{
+  border: 4px dashed black;
+}
+
+div{
+  border: 5px solid black;
+}
+
+#first{
+  border: 2px solid blue;
+}
